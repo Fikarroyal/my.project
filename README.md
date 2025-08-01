@@ -1,5 +1,6 @@
 # My big project plans
 
+- Hires AI
 - Vrise Studio
 - Breast Cancer Prediction
 - Anjani Outdoor
@@ -7,6 +8,5 @@
 - Devtria
 - Amikom Esport
 - Royalithic
-- ...
 - ...
 - ...
